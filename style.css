@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", serif;
+}
+
+h1{
+    border: 2px dotted rgb(0, 0, 0);
+    padding: 10px;
+    margin: 10px 20px 30px 40px;
+}
+#highlight{
+    text-decoration:underline;
+    border: 1px solid blue;
+    background-color: coral;
+    height: 10px;
+
+}
+nav ul
+.para-style{
+    text-align: center;
+    line-height: 24px ;
+}
+.main-image{
+    width: 250px;
+}
